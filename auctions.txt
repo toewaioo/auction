@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "Phone",
+    "description": "afafaf",
+    "product_img": "afafafa",
+    "base_price": 20,
+    "end_time": "2025-05-15 22:47",
+    "highest_bidder": "a",
+    "highest_bidder_id": 1,
+    "highest_bid": 555.0,
+    "seller": "a"
+  },
+  {
+    "id": 2,
+    "title": "aa",
+    "description": "aaaa",
+    "product_img": "aaaaa",
+    "base_price": 33,
+    "end_time": "2025-05-16 01:12",
+    "highest_bidder": "a",
+    "highest_bidder_id": 1,
+    "highest_bid": 333.0,
+    "seller": "a",
+    "status": "sold"
+  },
+  {
+    "id": 3,
+    "title": "Phone",
+    "description": "afafafa",
+    "product_img": "afafafaf",
+    "base_price": 30,
+    "end_time": "2025-05-16 10:12",
+    "highest_bidder": "a",
+    "highest_bidder_id": 1,
+    "highest_bid": 33.0,
+    "seller": "aaa@gmail.com",
+    "status": "active"
+  }
+]

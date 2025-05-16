@@ -1,0 +1,29 @@
+[
+  {
+    "auction_id": 1,
+    "bidder": "a",
+    "bid_amount": 22.0,
+    "modify_date": "2025-05-15 20:47"
+  },
+  {
+    "auction_id": 2,
+    "bidder_id": 1,
+    "bidder_username": "a",
+    "bid_amount": 333.0,
+    "timestamp": "2025-05-15 22:13:51"
+  },
+  {
+    "auction_id": 1,
+    "bidder_id": 1,
+    "bidder_username": "a",
+    "bid_amount": 555.0,
+    "timestamp": "2025-05-15 22:14:54"
+  },
+  {
+    "auction_id": 3,
+    "bidder_id": 1,
+    "bidder_username": "a",
+    "bid_amount": 33.0,
+    "timestamp": "2025-05-16 09:14:29"
+  }
+]

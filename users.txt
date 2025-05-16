@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "a",
+    "email": "a@gmail.com",
+    "password": "apass",
+    "contact": "+95",
+    "balance": 1667.0
+  },
+  {
+    "id": 2,
+    "username": "mgmg",
+    "email": "mgmg@gmail.com",
+    "password": "mgmgpass",
+    "contact": "mafafafa",
+    "balance": 4000.0
+  },
+  {
+    "id": 3,
+    "username": "aaa@gmail.com",
+    "email": "aaa@gmail.com",
+    "password": "apass",
+    "contact": "dfafafafaf",
+    "balance": 3000.0
+  }
+]
